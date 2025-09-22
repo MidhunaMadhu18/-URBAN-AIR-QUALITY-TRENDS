@@ -1,8 +1,8 @@
 
-# Analysis of Urban Air Quality Trends in Washington, DC (2019–2021)
+# Analysis of Urban Air Quality Trends in Washington, DC (2019–2024)
 
 ## Project Overview
-This project analyzes urban air quality trends and influences in Washington, DC, using hourly pollutant and meteorological data from 2019 to 2021. The goal is to understand how air pollution levels have changed over time and identify factors associated with those changes.
+This project analyzes urban air quality trends and influences in Washington, DC, using hourly pollutant and meteorological data from 2019 to 2024. The goal is to understand how air pollution levels have changed over time and identify factors associated with those changes.
 
 ## Dataset
 - **Source:** Air Quality History – Washington, DC (Data.gov)
@@ -21,7 +21,6 @@ This project analyzes urban air quality trends and influences in Washington, DC,
 	- Remove duplicates
 	- Correct data types
 	- Handle missing values
-	- Filter for 2019–2021
 2. **Feature Engineering:**
 	- Create compact pollutant codes
 	- Derive date, year, month fields
